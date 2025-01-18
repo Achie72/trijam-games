@@ -2,7 +2,7 @@ This repository is for all my Trijam entries, if I ever go for more.
 
 Developing a game in 3 hour is pure madness, but I really enjoyed. If you are interseted in VODS check out my playlist over at my YouTube channel! 
 
-[![Trijam playlist](https://i.ytimg.com/vi/3apLUwfjeuc/maxresdefault.jpg?v=678b7ce6)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=3apLUwfjeuc&list=PLPSb7Xjlfm8dWKAvetmOgkf2_VYfZvWs0) "Trijam")
+[![Trijam playlist](https://i.ytimg.com/vi/3apLUwfjeuc/maxresdefault.jpg?v=678b7ce6)](https://www.youtube.com/watch?v=3apLUwfjeuc&list=PLPSb7Xjlfm8dWKAvetmOgkf2_VYfZvWs0)
 
 Projects:
 

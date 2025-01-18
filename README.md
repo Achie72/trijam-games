@@ -1,6 +1,6 @@
 This repository is for all my Trijam entries, if I ever go for more.
 
-Developing a game in 3 hour is pure madness, but I really enjoyed. If you are interseted in VODS check out my playlist over at Youtube! (Coming Soon)
+Developing a game in 3 hour is pure madness, but I really enjoyed. If you are interseted in VODS check out my playlist over at [Youtube](https://www.youtube.com/watch?v=3apLUwfjeuc&list=PLPSb7Xjlfm8dWKAvetmOgkf2_VYfZvWs0)! (Coming Soon)
 
 Projects:
 
